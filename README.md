@@ -1,1 +1,1 @@
-This is a cheatcheat for users new to Github. Here you will find step by step instructiosn to create and push information to GitHub. It will start with installation of Git and end with pushing files onto the first repository that is created by the user. 
+This is a cheatcheat for those and myself who are new to Github. Here you will find step by step instructions (follow the bulleted list) to create and push information to GitHub. It will start with installation of Git and end with pushing files onto the first repository that is created by the user.
