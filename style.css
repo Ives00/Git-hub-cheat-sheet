@@ -1,9 +1,13 @@
 .container {
-	max-width: 1000px;
-	margin: 0 auto;
+	max-width: 800px;
+	margin: auto;
 	}
-.container body{
-	text-align: center;
-	font-family: Footlight MT;
-	color:black;
-	margin-top: 50px;}
+
+	body {text-align: left;
+		font-family: American Typewriter;
+		color: navy}
+	h1{
+	text-align: center;}
+
+	 p {
+	text-align: left;}
